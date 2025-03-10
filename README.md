@@ -5,6 +5,7 @@
 En la era de la inteligencia artificial y el análisis de datos, los profesionales y estudiantes enfrentan un desafío común: dónde encontrar respuestas a problemas específicos y aprender de forma colaborativa en español.
 
 Si bien existen foros como Stack Overflow, Reddit y Kaggle, estos espacios tienen limitaciones:
+
 - Stack Overflow es demasiado rígido con preguntas técnicas.
 - Reddit es más informal y desorganizado.
 - Kaggle se enfoca en competencias, no en resolver problemas reales.
@@ -15,8 +16,8 @@ DataForo nace como un espacio donde los analistas de datos, científicos de dato
 
 ## Objetivos del Proyecto
 
-- Construir la mayor comunidad en español para IA y análisis de datos.
-- Brindar soporte técnico a quienes trabajan con datos, machine learning y estadística.
+- Construir la mayor comunidad en español de IA y análisis de datos.
+- Brindar soporte técnico colaborativo a quienes trabajan con datos, machine learning y estadística.
 - Crear una base de conocimiento con preguntas y respuestas estructuradas en español.
 - Facilitar el networking y la colaboración entre profesionales y estudiantes.
 
@@ -28,14 +29,6 @@ DataForo nace como un espacio donde los analistas de datos, científicos de dato
 - Profesionales de IA y analistas de datos que buscan resolver problemas y mejorar sus habilidades.
 - Desarrolladores y científicos de datos avanzados que desean compartir conocimiento.
 - Investigadores y autodidactas interesados en IA, MLOps y big data.
-
----
-
-## Diferenciadores de DataForo
-
-- No es solo un foro de preguntas y respuestas → Aquí se generan debates, se discuten tendencias y se colabora activamente.
-- Accesible y estructurado → Más organizado que Reddit, pero menos rígido que Stack Overflow.
-- Crecimiento impulsado por la comunidad → A medida que los usuarios contribuyen, la base de conocimiento crece y se optimiza.
 
 ---
 
