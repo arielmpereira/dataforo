@@ -46,39 +46,39 @@ DataForo nace como un espacio donde los analistas de datos, científicos de dato
 
 Para diferenciarse de otras plataformas y fomentar el conocimiento colectivo, **DataForo ofrecerá cuatro tipos de contenido colaborativo**:
 
-### 1️⃣ Preguntas y Respuestas (Foro Técnico)
-📌 Espacio principal donde los usuarios **formulan preguntas técnicas y reciben respuestas detalladas**.  
-📌 Basado en **tags (t/tema)** para organizar el contenido.  
-📌 **Moderación intermedia**: no tan estricta como Stack Overflow, pero fomentando respuestas de calidad.  
+###  Preguntas y Respuestas (Foro Técnico)
+ Espacio principal donde los usuarios **formulan preguntas técnicas y reciben respuestas detalladas**.  
+ Basado en **tags (t/tema)** para organizar el contenido.  
+ **Moderación intermedia**: no tan estricta como Stack Overflow, pero fomentando respuestas de calidad.  
 
 ➡ **Ejemplo en DataForo:**  
 - *[t/MachineLearning] ¿Cómo mejorar la precisión de un modelo de regresión logística?*  
 - *[t/SQL] ¿Cómo optimizar consultas en bases de datos grandes?*  
 
-### 2️⃣ Publicaciones Personales (Reflexiones y Noticias)
-📌 Similar a las **historias de Quora** o el antiguo "Qué Haces" de EsDebian.  
-📌 Espacio donde los usuarios pueden compartir **ideas, tendencias y experiencias personales** sobre IA y ciencia de datos.  
-📌 Permite contenido más libre, sin necesidad de hacer preguntas técnicas.  
+###  Publicaciones Personales (Reflexiones y Noticias)
+ Similar a las **historias de Quora** o el antiguo "Qué Haces" de EsDebian.  
+ Espacio donde los usuarios pueden compartir **ideas, tendencias y experiencias personales** sobre IA y ciencia de datos.  
+ Permite contenido más libre, sin necesidad de hacer preguntas técnicas.  
 
 ➡ **Ejemplo en DataForo:**  
 - *"Google lanzó un nuevo modelo de IA, ¿qué opinan?"*  
 - *"¿Vale la pena aprender Julia para ciencia de datos?"*  
 
-### 3️⃣ Espacios de Trabajo Colaborativo (Proyectos en Grupo)
-📌 Sección dedicada a la colaboración entre miembros.  
-📌 Espacios donde los usuarios pueden **crear proyectos, compartir código y trabajar en equipo**.  
-📌 Ideal para estudiantes y profesionales que quieran desarrollar soluciones reales.  
+### Espacios de Trabajo Colaborativo (Proyectos en Grupo)
+ Sección dedicada a la colaboración entre miembros.  
+ Espacios donde los usuarios pueden **crear proyectos, compartir código y trabajar en equipo**.  
+ Ideal para estudiantes y profesionales que quieran desarrollar soluciones reales.  
 
 ➡ **Ejemplo en DataForo:**  
 - *"Proyecto: Análisis de datos de cambio climático - Buscamos colaboradores."*  
 - *"Grupo de estudio sobre Deep Learning - Abierto a participantes."*  
 
-### 4️⃣ Wiki Global Integrada (Material Académico y Problemas Resueltos)
-📌 **Sección única que combina material educativo y soluciones colaborativas**.  
-📌 Se dividirá en dos grandes áreas:  
+### Wiki Global Integrada (Material Académico y Problemas Resueltos)
+ **Sección única que combina material educativo y soluciones colaborativas**.  
+ Se dividirá en dos grandes áreas:  
    🔹 **Contenidos Educativos** → Publicaciones sobre matemáticas, estadística, machine learning y programación.  
    🔹 **Resolución de Problemas** → Casos reales trabajados en equipo, documentados como referencia futura.  
-📌 Cualquier usuario podrá editarla, salvo que se requiera un rol de editor en caso de abusos.  
+ Cualquier usuario podrá editarla, salvo que se requiera un rol de editor en caso de abusos.  
 
 ➡ **Ejemplo de contenidos en la Wiki:**  
 🔹 *Fundamentos de Machine Learning (teoría y ejemplos).*  
@@ -120,5 +120,3 @@ Para organizar el contenido de forma más flexible y eficiente, DataForo usará 
 - Comunidad activa con mentoría, networking y proyectos colaborativos.
 - Un espacio donde **el conocimiento se genera de manera colectiva, no individualmente.**
 - Posibilidad de expandirse con eventos, desafíos y colaboraciones en el futuro.
-
-¡**DataForo está listo para convertirse en la comunidad de IA y ciencia de datos en español!** 🚀
