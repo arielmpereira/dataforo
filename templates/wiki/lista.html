@@ -1,0 +1,15 @@
+{% extends "wiki/base.html" %}
+
+{% block title %}Wiki - Lista{% endblock %}
+
+{% block content %}
+    {% for pagina in paginas %}
+        <div class="mb-3">
+            <h4><a href="{% url 'wiki:detalle' pagina.slug %}">{{ pagina.titulo }}</a></h4>
+            <p class="text-muted">Publicado por {{ pagina.autor }} el {{ pagina.creado|date:"d/m/Y" }}</p>
+        </div>
+    {% empty %}
+        <p>No hay páginas aún.</p>
+    {% endfor %}
+{% endblock %}
+
