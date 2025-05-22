@@ -1,4 +1,4 @@
-# Quantforo – Comunidad de Análisis cuantitativo de datos financieros
+# ForoQuant – Comunidad de Análisis cuantitativo de datos financieros
 
 ## Introducción
 
@@ -22,7 +22,7 @@ Quantforo nace como un espacio donde estudiantes, traders, analistas de datos e 
 - Traders cuantitativos que buscan compartir ideas, herramientas o código.
 - Cualquiera que quiera aprender ciencia de datos aplicada de verdad.
 
-## Diferenciadores de Quantforo
+## Diferenciadores de ForoQuant
 
 - Nicho específico con enfoque práctico: ciencia de datos aplicada a activos reales como bonos, acciones, opciones, futuros y divisas.
 - Proyectos técnicos reales: scraping de precios, análisis estacional, ETLs, dashboards, modelos.
